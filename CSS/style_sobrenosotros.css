@@ -1,0 +1,62 @@
+/*importaciones de las tipografias utilizadas en la pagina*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');    
+
+body{
+    background-color: #EDEAE0;
+    margin: 0;
+    padding: 0;
+    padding: 20px 20px;
+}
+
+
+
+/**/
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+}
+
+#sobre-nosotros {
+    color: #002E46;
+    margin-top: 150px;
+    background: #EDEAE0;
+    padding: 20px;
+    border-radius: 8px;
+    
+}
+
+h1, h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    color: #002E46; /* Puedes ajustar este color según el esquema de tu sitio */
+}
+
+ul {
+    columns: #002E46;
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+p{
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+}
+
+strong {
+    color: #002E46; /* Puedes ajustar este color según el esquema de tu sitio */
+}
+
+.ima_s{
+    display: flex;
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-right: 40px;
+    position: center;
+    
+}

@@ -1,0 +1,78 @@
+/*estilos del header*/
+/*header {
+    width: 1180px; 
+    height: 100px;
+    display: flex;
+    align-items: center;
+    background-color: #A7D8DE; 
+    border-radius: 50px; 
+    position: fixed; 
+    top: 0; 
+    z-index: 1000; 
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.5s ease, opacity 0.5s ease; /* Transición suave */
+/*}
+
+header.he1 {
+    background-color: rgba(167, 216, 222, 0.5); /* Header semi-transparente al hacer scroll */
+   /* opacity: 0.8; 
+/*}
+
+.logo1 {
+    padding: 10px 20px;
+    margin-right: 20px; /* Espacio entre el logo y el menú */
+/*}
+
+.headerM {
+    margin-left: auto; /* Empuja el contenido a la derecha */
+    /*font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+}
+
+.headerM ul {
+    display: flex;
+    list-style-type: none;
+    padding: 10px 20px;
+    margin: 0;
+}
+
+.headerM ul li {
+    margin-right: 20px; 
+}
+
+.headerM ul li a {
+    text-decoration: none;
+    color: #002E46;  
+}
+
+
+html
+
+<!--
+    <header class="he1">
+        <img class="logo1" src="/logo/Imagotipo letras derecha.svg" width="200px" height="80px">
+        
+        <div class="headerM">
+           
+            <ul>
+                <li class="li1"><a href="/Index.html"><img src="/iconos/iconos de nave/iconamoon_home-fill.png" alt="hogas" width="20px" height="20px">Hogar</a></li>
+                <li class="li2"><a href="#"><img src="/iconos/iconos de nave/f7_person-3-fill.png" alt="" width="20px" height="20px">Sobrenosotros</a></li>
+                <li class="li3"><a href="#"><img src="/iconos/iconos de nave/noto-v1_information.png" alt="" width="20px" height="20px">Ayuda</a></li>
+                <li class="li4"><a href="#"><img src="/iconos/iconos de nave/fluent_person-48-filled.png" alt="" width="20px" height="20px">Perfil</a></li>
+            </ul>
+        </div>
+    </header-->
+
+<!--bien benid>
+    <div class="vien">
+        <div class="encas">
+            <img class="imb" src="/logo/Imagotipo letras debajo.svg" alt="logo" width="100" height="100">
+            <div>
+                <h1 class="h1b">Bienvenido a DrugsHelp</h1>
+                <p class="h1b1">¡Encuentra ayuda y recursos!</p>
+            </div> 
+        </div>
+    </div>-->
